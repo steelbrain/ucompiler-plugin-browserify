@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/steelbrain/ucompiler-plugin-browserify/issues"
   },
-  "homepage": "https://github.com/steelbrain/ucompiler-plugin-browserify#readme"
+  "homepage": "https://github.com/steelbrain/ucompiler-plugin-browserify#readme",
+  "dependencies": {
+    "browserify": "^12.0.1"
+  }
 }
