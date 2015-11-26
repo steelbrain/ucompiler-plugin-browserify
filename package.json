@@ -1,0 +1,26 @@
+{
+  "name": "ucompiler-plugin-browserify",
+  "version": "1.0.0",
+  "description": "Browserify support for UCompiler",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "babel-preset-steelbrain": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steelbrain/ucompiler-plugin-browserify.git"
+  },
+  "keywords": [
+    "ucompiler",
+    "browserify"
+  ],
+  "author": "steelbrain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steelbrain/ucompiler-plugin-browserify/issues"
+  },
+  "homepage": "https://github.com/steelbrain/ucompiler-plugin-browserify#readme"
+}
