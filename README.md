@@ -1,12 +1,14 @@
-UCompiler-Plugin-Less
+UCompiler-Plugin-Browserify
 ======================
 
-This is a Less.js support package for UCompiler.
+This is a browserify support package for UCompiler.
 
 
-#### How to Use
+## How to Use
 
-Simply add "less" to `plugins` field in your `.ucompilerrc`
+You first need to add `ucompiler-plugin-browserify` to your `devDependencies`
+within your `package.json`, then simply add "browserify" to the `plugins` field
+in your `.ucompilerrc` configuration file.
 
 ```js
 {
@@ -14,6 +16,6 @@ Simply add "less" to `plugins` field in your `.ucompilerrc`
 }
 ```
 
-#### License
+## License
 
 This project is licensed under the terms of MIT License
