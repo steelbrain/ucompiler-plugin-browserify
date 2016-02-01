@@ -1,20 +1,13 @@
-UCompiler-Plugin-Browserify
-======================
+# UCompiler-Plugin-Babel
 
-This is a browserify support package for UCompiler.
-
+This is a Babel support package for UCompiler. To compile your files using
+babel, simply start them with `'use babel'`.
 
 ## How to Use
 
-You first need to add `ucompiler-plugin-browserify` to your `devDependencies`
-within your `package.json`, then simply add "browserify" to the `plugins` field
-in your `.ucompilerrc` configuration file.
-
-```js
-{
-  plugins: ["browserify"]
-}
-```
+You first need to add `ucompiler-plugin-babel` to your `devDependencies`
+within your `package.json`, then simply add "babel" to the `plugins` field
+in your `.ucompiler` rule.
 
 ## License
 
