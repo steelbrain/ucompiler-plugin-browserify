@@ -1,6 +1,6 @@
 {
   "name": "ucompiler-plugin-browserify",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Browserify support for UCompiler",
   "main": "lib/main.js",
   "scripts": {
