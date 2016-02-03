@@ -1,7 +1,7 @@
 # UCompiler-Plugin-Babel
 
-This is a Babel support package for UCompiler. To compile your files using
-babel, simply start them with `'use babel'`.
+This is a Babel support package for UCompiler. It'll automatically
+bundle all of the requires into the out file of the importer file.
 
 ## How to Use
 
